@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Elif 👩‍💻
-I am 21 years old, a third-year computer engineering student in Turkey. I love playing video games and programming. Currently, I am interested in Machine Learning, Artificial Intelligence and Flutter. 
+I am 21 years old, a third-year computer engineering student in Turkey. I love playing video games and programming. Currently, I am interested in Machine Learning and Artificial Intelligence. 
  
 - 🌱 I’m currently learning Machine Learning.
-- ✨ Recently I'm interested in Flutter.
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: I love to design in my spare time.  
 
