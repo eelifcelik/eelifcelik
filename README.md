@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Elif 👩‍💻
-I am 21 years old, a third-year computer engineering student in Turkey. I love playing video games and programming. Currently, I am interested in Machine Learning and Artificial Intelligence. 
+I am 22 years old, 4th year computer engineering student in Turkey. I love playing video games and programming. Currently, I am interested in Machine Learning and Artificial Intelligence. 
  
 - 🌱 I’m currently learning Machine Learning.
 - 😄 Pronouns: She / Her 
