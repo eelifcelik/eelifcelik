@@ -3,7 +3,7 @@
 </div>
 
 -------
-I am 22 years old, senior year computer engineering student in Turkey. I love playing video games and programming. Currently, I am interested in Machine Learning and Artificial Intelligence. My favorite game is Disco Elsiyum so far! Also, I really enjoy writing blogs, traveling and taking pictures of the places that I go ✨
+I am 22 years old, senior year computer engineering student in Turkey. I love playing video games and programming. Currently, I am interested in Machine Learning and Artificial Intelligence. My favorite game is Disco Elsiyum so far! Also, I really enjoy writing blogs, traveling and taking pictures of the places that I went ✨
  
 - 🌱 I’m currently learning Machine Learning.
 - 😄 Pronouns: She / Her 
