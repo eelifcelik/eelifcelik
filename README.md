@@ -24,6 +24,7 @@ class ComputerEngineeringStudent:
 me = Computer_Engineering_Student()
 me.say_hi()
 ```
+
 -------
 
 <h2>Latest Blog Posts</h2>
@@ -48,8 +49,7 @@ me.say_hi()
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eelifcelik&show_icons=true&count_private=true)  
 
 -------
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=eelifcelik)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eelifcelik&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 ![Profile views](https://gpvc.arturio.dev/eelifcelik)  
 
