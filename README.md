@@ -1,9 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=902EF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Elif+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+)](https://git.io/typing-svg)
 
-I am 22 years old, senior year computer engineering student in Turkey. I love playing video games and programming. Currently, I am interested in Machine Learning and Artificial Intelligence. My favorite game is Disco Elsiyum so far! Also, I really enjoy writing blogs, traveling and taking pictures of the places that I went ✨
- 
-- 🌱 I’m currently learning Machine Learning.
-- 😄 Pronouns: She / Her 
-- ⚡ Fun fact: I love to design in my spare time.  
+I'm a Data Science and Machine Learning enthusiast with a degree in Computer Engineering. On my GitHub profile, you can find some of my latest projects and contributions in these fields, along with my skills and experience. Let's connect and build something amazing together!✨
+  
 
 -------
 
