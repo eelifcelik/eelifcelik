@@ -2,7 +2,7 @@
 
 **Computer Engineer · M.Sc. @ TU Dresden · Dresden, Germany**
 
-> Computer Engineer with experience across systems, infrastructure, and machine learning. I enjoy working close to both the problem and the implementation — from building monitoring systems for enterprise infrastructure to training ML models and exploring data. Currently studying for my M.Sc. at TU Dresden and looking for new challenges.
+> Computer Engineer with experience across systems, infrastructure, and machine learning. I enjoy working close to both the problem and the implementation from building monitoring systems for enterprise infrastructure to training ML models and exploring data. Currently studying for my M.Sc. at TU Dresden and looking for new challenges.
 
 ---
 
